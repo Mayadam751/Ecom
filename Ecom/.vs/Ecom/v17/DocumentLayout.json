@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ecom\\Ecom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C26F90D-49FD-403F-8B16-2C9621CC9C66}|..\\Ecom.DAL\\Ecom.DAL.csproj|e:\\ecom\\ecom.dal\\entities\\orderedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACC1742-D423-4D34-B925-18A5512D0876}|Ecom.csproj|e:\\ecom\\ecom\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACC1742-D423-4D34-B925-18A5512D0876}|Ecom.csproj|solutionrelative:dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACC1742-D423-4D34-B925-18A5512D0876}|Ecom.csproj|e:\\ecom\\ecom\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACC1742-D423-4D34-B925-18A5512D0876}|Ecom.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACC1742-D423-4D34-B925-18A5512D0876}|Ecom.csproj|e:\\ecom\\ecom\\controllers\\orders controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACC1742-D423-4D34-B925-18A5512D0876}|Ecom.csproj|solutionrelative:controllers\\orders controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACC1742-D423-4D34-B925-18A5512D0876}|Ecom.csproj|e:\\ecom\\ecom\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACC1742-D423-4D34-B925-18A5512D0876}|Ecom.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C26F90D-49FD-403F-8B16-2C9621CC9C66}|..\\Ecom.DAL\\Ecom.DAL.csproj|e:\\ecom\\ecom.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C26F90D-49FD-403F-8B16-2C9621CC9C66}|..\\Ecom.DAL\\Ecom.DAL.csproj|e:\\ecom\\ecom.dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderedProduct.cs",
+              "DocumentMoniker": "E:\\Ecom\\Ecom.DAL\\Entities\\OrderedProduct.cs",
+              "RelativeDocumentMoniker": "..\\Ecom.DAL\\Entities\\OrderedProduct.cs",
+              "ToolTip": "E:\\Ecom\\Ecom.DAL\\Entities\\OrderedProduct.cs",
+              "RelativeToolTip": "..\\Ecom.DAL\\Entities\\OrderedProduct.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:29:08.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "E:\\Ecom\\Ecom\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CustomerDto.cs",
+              "ToolTip": "E:\\Ecom\\Ecom\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "Dtos\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:40:40.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "E:\\Ecom\\Ecom\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "E:\\Ecom\\Ecom\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:39:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "E:\\Ecom\\Ecom\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\OrderDto.cs",
+              "ToolTip": "E:\\Ecom\\Ecom\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:13:10.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "order.cs",
+              "DocumentMoniker": "E:\\Ecom\\Ecom.DAL\\Entities\\order.cs",
+              "RelativeDocumentMoniker": "..\\Ecom.DAL\\Entities\\order.cs",
+              "ToolTip": "E:\\Ecom\\Ecom.DAL\\Entities\\order.cs",
+              "RelativeToolTip": "..\\Ecom.DAL\\Entities\\order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:11:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Ecom\\Ecom.DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Ecom.DAL\\Entities\\User.cs",
+              "ToolTip": "E:\\Ecom\\Ecom.DAL\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Ecom.DAL\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:10:50.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orders Controller.cs",
+              "DocumentMoniker": "E:\\Ecom\\Ecom\\Controllers\\Orders Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Orders Controller.cs",
+              "ToolTip": "E:\\Ecom\\Ecom\\Controllers\\Orders Controller.cs",
+              "RelativeToolTip": "Controllers\\Orders Controller.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:30:52.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

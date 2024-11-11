@@ -1,0 +1,14 @@
+E:\Ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.BLL.deps.json
+E:\Ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.BLL.runtimeconfig.json
+E:\Ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.BLL.dll
+E:\Ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.BLL.pdb
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.csproj.AssemblyReference.cache
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.AssemblyInfoInputs.cache
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.AssemblyInfo.cs
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.csproj.CoreCompileInputs.cache
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.dll
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\refint\Ecom.BLL.dll
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.pdb
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.genruntimeconfig.cache
+E:\Ecom\Ecom.BLL\obj\Debug\net8.0\ref\Ecom.BLL.dll
